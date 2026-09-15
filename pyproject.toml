@@ -1,7 +1,7 @@
 [project]
 name = "dropbox-python"
 version = "0.1.0"
-description = "Altissimo Python client for dropbox-python"
+description = "Dropbox API client with OAuth helper and optional Google Secret Manager refresh-token storage"
 readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.11"
